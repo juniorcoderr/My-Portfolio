@@ -1,2 +1,31 @@
 # My-Portfolio
-Welcome to my portfolio project, built entirely with vanilla JavaScript, HTML, and CSS. This project showcases my skills, experience, and projects as a full stack web developer and computer science student.
+
+### Features
+
+- **Responsive Design:** Optimized for viewing on devices of all sizes.
+- **Interactive UI:** Smooth navigation and engaging user experience.
+- **Dynamic Content:** Sections for education, skills, projects, and contact information.
+- **Custom Animations:** Subtle animations to enhance the visual appeal.
+
+### Technologies Used
+
+- **JavaScript:** For dynamic content and interactive features.
+- **HTML5:** Markup structure for the portfolio.
+- **CSS3:** Styling and responsive design.
+- **BootStrap:** CSS Framework.
+
+### Getting Started
+
+1. Clone the repository.
+2. Open the `index.html` file in your web browser to view the portfolio.
+
+### Contact
+
+Feel free to reach out if you have any questions or feedback. You can contact me at:
+- **Email:** ervinayakyadav@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vinayak-yadav-2a585a309/
+
+
+Thank you for visiting my portfolio!
+
+
