@@ -19,6 +19,9 @@
 1. Clone the repository.
 2. Open the `index.html` file in your web browser to view the portfolio.
 
+### Future Updates
+This portfolio will be updated from time to time with new projects, skills, and improvements. Stay tuned for the latest updates!
+
 ### Contact
 
 Feel free to reach out if you have any questions or feedback. You can contact me at:
